@@ -1,1 +1,1 @@
-ficheiro 5 teste 
+Ficheiro5.txt para teste da ficha 2.
